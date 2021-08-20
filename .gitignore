@@ -1,0 +1,6 @@
+.vscode/
+assets/
+*.log
+__pycache__
+venv/
+report.html

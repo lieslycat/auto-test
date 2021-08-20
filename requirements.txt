@@ -1,0 +1,3 @@
+pytest
+selenimu
+pytest-html
